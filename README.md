@@ -43,8 +43,6 @@ Las imágenes y videos procesados se guardan automáticamente en la carpeta de r
 ### ⚡ Desarrollo en Python
 El sistema fue desarrollado en Python utilizando bibliotecas especializadas como Ultralytics YOLOv8, OpenCV y PyTorch, lo que permite un procesamiento eficiente y la posibilidad de ampliar el proyecto en el futuro.
 
-## DEMOSTRACIÓN DEL FUNCIONAMIENTO DEL PROYECTO:
-
 ## 🚀 Instalación y uso del proyecto
 
 ### Requisitos
